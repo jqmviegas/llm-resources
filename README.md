@@ -1,15 +1,20 @@
 # LLM Resources
 
-## Tools to experiment
+### Tools to experiment
 
 - [LibreChat](https://github.com/danny-avila/LibreChat): Self hosted platform to interact with LLM APIs. Great if you have OpenAI API credit and don't want to be paying for ChatGPT Plus.
 - [LMSYS Chatbot Arena Chat](https://chat.lmsys.org/): Arena behind the LMSYS Leaderboard. Can be used to prompt different state of the art LLMs for free.
 
-## Books
+### Providers
+
+- [OpenAI](https://openai.com/): Top dog
+- [Groq](https://groq.com/): LPU creators. API for inference with Open Source LLMS (e.g. Llama, Mixtral)
+
+### Books
 
 - [Natural Language Processing with Transformers: Building Language Applications with Hugging Face](https://www.goodreads.com/en/book/show/60114857)
 
-## Articles
+### Articles
 
 Building products with LLMs
 - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/): "This write-up is about practical patterns for integrating large language models (LLMs) into systems & products."
@@ -26,6 +31,6 @@ Papers
 - [LLama](https://arxiv.org/abs/2302.13971) (2023)
 - [Llama 2](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/) (2023)
 
-## Benchmarks
+### Benchmarks
 
 - [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
