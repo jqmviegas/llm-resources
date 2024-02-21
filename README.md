@@ -14,8 +14,9 @@
 Building products with LLMs
 - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/): "This write-up is about practical patterns for integrating large language models (LLMs) into systems & products."
 
-Theory
+ELI5
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) (Stephen Wolfram)
 
 ## Benchmarks
 
