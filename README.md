@@ -8,7 +8,7 @@
 ### Providers
 
 - [OpenAI](https://openai.com/): Top dog
-- [Groq](https://groq.com/): LPU creators. API for inference with Open Source LLMS (e.g. Llama, Mixtral)
+- [Groq](https://groq.com/): LPU creators. "Groq guarantees to beat any published price per million tokens by published providers of the equivalent listed models."
 
 ### Books
 
