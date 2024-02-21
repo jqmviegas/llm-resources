@@ -17,7 +17,7 @@ Building products with LLMs
 ELI5
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [What Is ChatGPT Doing... and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) (Stephen Wolfram)
-- [https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0): Clear explanation on the masking in self-attention.
+- [Illustrated Guide to Transformers- Step by Step Explanation](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0): Clear explanation on the masking in self-attention.
 
 Papers
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) (2017): The birth of transformers.
