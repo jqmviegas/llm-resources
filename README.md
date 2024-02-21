@@ -16,7 +16,7 @@ Building products with LLMs
 
 ELI5
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-- [https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) (Stephen Wolfram)
+- [What Is ChatGPT Doing... and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) (Stephen Wolfram)
 
 ## Benchmarks
 
