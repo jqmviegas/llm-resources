@@ -1,5 +1,10 @@
 # LLM Resources
 
+## Tools to experiment
+
+- [LibreChat](https://github.com/danny-avila/LibreChat) - Self hosted platform to interact with LLM APIs. Great if you have OpenAI API credit and don't want to be paying for ChatGPT Plus.
+- [LMSYS Chatbot Arena Chat](https://chat.lmsys.org/) - Arena behind the LMSYS Leaderboard. Can be used to prompt different state of the art LLMs for free.
+
 ## Books
 
 - [Natural Language Processing with Transformers: Building Language Applications with Hugging Face](https://www.goodreads.com/en/book/show/60114857)
