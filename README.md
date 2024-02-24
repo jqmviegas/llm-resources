@@ -23,6 +23,7 @@ ELI5
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [What Is ChatGPT Doing... and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) (Stephen Wolfram)
 - [Illustrated Guide to Transformers- Step by Step Explanation](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0): Clear explanation on the masking in self-attention.
+- [Code LoRA from Scratch](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch)
 
 Papers
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) (2017): The birth of transformers.
