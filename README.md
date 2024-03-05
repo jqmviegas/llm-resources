@@ -23,6 +23,7 @@ Testing
 - [Don't Mock Machine Learning Models In Unit Tests](https://eugeneyan.com/writing/unit-testing-ml/?utm_source=convertkit&utm_medium=email&utm_campaign=Don%27t%20Mock%20Your%20Machine%20Learning%20Models%20In%20Unit%20Tests%20-%2013204234)
 
 ELI5
+- [nanoGPT](https://github.com/karpathy/nanoGPT): Andrej Karpathy awesome GPT implementation (rewrite of [minGPT](https://github.com/karpathy/minGPT))
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [What Is ChatGPT Doing... and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) (Stephen Wolfram)
 - [Illustrated Guide to Transformers- Step by Step Explanation](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0): Clear explanation on the masking in self-attention.
