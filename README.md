@@ -21,6 +21,7 @@ Building products with LLMs
 
 Testing
 - [Don't Mock Machine Learning Models In Unit Tests](https://eugeneyan.com/writing/unit-testing-ml/?utm_source=convertkit&utm_medium=email&utm_campaign=Don%27t%20Mock%20Your%20Machine%20Learning%20Models%20In%20Unit%20Tests%20-%2013204234)
+- [Evaluating LLM Applications](https://humanloop.com/blog/evaluating-llm-apps)
 
 ELI5
 - [nanoGPT](https://github.com/karpathy/nanoGPT): Andrej Karpathy awesome GPT implementation (rewrite of [minGPT](https://github.com/karpathy/minGPT))
